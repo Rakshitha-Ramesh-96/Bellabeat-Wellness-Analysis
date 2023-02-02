@@ -1,0 +1,11 @@
+Bellabeat Wellness Dataset :
+
+Dataset we used is from public data that explores smart device users’ daily habits 
+(FitBit Fitness Tracker Data (CC0: Public Domain, dataset made available through Mobius)).
+
+https://www.kaggle.com/datasets/arashnic/fitbit
+
+The dataset is published under the CC0: Public Domain license and This public dataset is comprised of
+18 CSV files – each containing specific tracking information, such as daily calories, daily steps,etc.
+
+Format : CSV files. 
